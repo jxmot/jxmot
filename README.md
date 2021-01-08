@@ -15,9 +15,10 @@ My past(some are still current) interests include: *analog* photography, amateur
 Chicago, Illinois, United States. And more specifically you'll find me in my home office working on one project or another.
 
 
-<details><summary>
+<details>
+<summary>
 
-## `WHATIDO`
+## `WHATIDO` (<i>click me</i>)
 
 </summary>
 <p>
@@ -72,23 +73,6 @@ This is a cycle that stays in motion even after the customer is *satisfied*.
 
 </p>
 </details>
-
-
-
-## Career Goals
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
 
 ## Strengths & Specialties
 
