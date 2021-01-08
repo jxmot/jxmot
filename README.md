@@ -14,7 +14,11 @@ My past(some are still current) interests include: *analog* photography, amateur
 
 Chicago, Illinois, United States. And more specifically you'll find me in my home office working on one project or another.
 
+
+<details><summary>
 ## `WHATIDO`
+</summary>
+<p>
 
 A non-technical very good friend once asked me "*What do you do exactly?*". I thought about it for a moment and was about to give an answer that was most likely way too detailed for my friend. So instead I told them "*I create things you cannot see, but you can see the effect they have*".
 
@@ -22,16 +26,13 @@ Well, the next question from my friend wasn't surprising... "*What the heck does
 
 ### `WHATITMEANS`
 
-So I realized that my friend might understand if I used an analogy....
-
-*Think of a painting, you can see and appreciate the final work. But what came before is often hidden or beneath what you see.*
+So I realized that my friend might understand if I tried explaining this way....
 
 *Just about every human-made thing is comprised of *layers*. The part that is visible is just the top layer, *someone* had to create the layers that form what you see now.*
 
-
 ### `HOWIDOIT`
 
-My years of experience have taught me some very useful developer skills. So I would like to share them with you...
+My years of experience have taught me some very useful skills. So I would like to share them with you...
 
 **Comment your code.**
 
@@ -41,33 +42,34 @@ Even the "professionals" like to avoid code commenting. It's a mistake to not co
 **You're not always right, even if you can prove it.**
 
 Yes, it's true! Many times "being right" is a matter of perspective. And don't take it personally when someone tells you that you're wrong. Look at it that moment an opportunity to expand your mind and see things in a new way. And if you find that you were wrong, stand up and admit it.
-<br>
+<br><br>
 
 **Document your work...**
 
 ...thoughts, design process, hurdles, accomplishments, etc. It's not just for others to see what you have done or how you did it. It's for **you** too. And just because you created a magnificent application it doesn't mean squat if you don't describe it in some way. If your work was targeted for users then write a *good* user manual.
-<br>
+<br><br>
 
 **Don't assume.**
 
 Just because you understand what you did does not mean others will. 
-<br>
+<br><br>
 
 **Great != Complicated**
 
 I can't tell you how many times I've seen developers(or engineers) create something what was **way too complicated** just to prove *how smart they are*. More times than not, greatness is born from simplicity.
-<br>
+<br><br>
 
 **Ship It!**
 
-Have you ever seen anything human-made that is *perfect*? No, probably not. And even if you have, that perfection is the minority when compared to everything else. And quite often (*preceived*) perfection is created from *acceptance of "what is"*.
-<br>
+Have you ever seen anything human-made that is *perfect*? No, probably not. And even if you have, that perfection is often temporary. And quite often the (*preceived*) perfection is created from *acceptance of "what is"*.
+<br><br>
 
 **Design, Code, **Test**, Rinse, Repeat**
 
 This is a cycle that stays in motion even after the customer is *satisfied*. 
 
-
+</p>
+</details>
 
 
 
