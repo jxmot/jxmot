@@ -16,7 +16,9 @@ Chicago, Illinois, United States. And more specifically you'll find me in my hom
 
 
 <details><summary>
+
 ## `WHATIDO`
+
 </summary>
 <p>
 
