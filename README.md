@@ -1,5 +1,7 @@
 # `WELCOME!`
 
+![my github stats](http://webexperiment.info/extcounter/mdreport.php?tsort=d)
+
 Thanks for stopping by!
 
 ## `WHOAMI`
